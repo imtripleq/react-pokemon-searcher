@@ -1372,19 +1372,10 @@
       "name": "qqq",
       "hp": "999999",
       "sprites": {
-        "front": "img",
-        "back": "img"
-      },
-      "id": 154
-    },
-    {
-      "name": "qqq",
-      "hp": "999999",
-      "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/132.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/132.png"
       },
-      "id": 155
+      "id": 154
     }
   ]
 }
