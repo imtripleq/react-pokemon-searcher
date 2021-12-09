@@ -26,14 +26,14 @@ class PokemonForm extends React.Component {
               fluid
               label="Front Image URL"
               placeholder="url"
-              name="frontUrl"
+              name="front"
               onChange={this.props.newFrontImg}
             />
             <Form.Input
               fluid
               label="Back Image URL"
               placeholder="url"
-              name="backUrl"
+              name="back"
               onChange={this.props.newBackImg}
             />
           </Form.Group>
